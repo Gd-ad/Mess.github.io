@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Chuyển hướng...</title>
+  <meta http-equiv="refresh" content="0; url=https://vndshare.net/g4027651312/abc" />
+  <style>
+    body {
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      background: #f9fafb;
+      font-family: Arial, sans-serif;
+    }
+    .box {
+      text-align: center;
+      padding: 20px 40px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    a {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 10px 20px;
+      background: #2563eb;
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #1d4ed8;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>🔗 Đang chuyển hướng...</h2>
+    <p>Nếu không tự động chuyển, vui lòng bấm nút bên dưới 👇</p>
+    <a href="https://vndshare.net/g4027651312">👉 Đi tới link</a>
+  </div>
+</body>
+</html>
